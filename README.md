@@ -15,7 +15,7 @@ Include this in your world file:
       <init_robot_y>1.37</init_robot_y>
 </plugin>
 ```
-
+ 
 To generate the map, call the `/gazebo_2Dmap_plugin/generate_map` ros service:
 
 ```bash
